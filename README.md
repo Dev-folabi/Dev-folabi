@@ -41,15 +41,6 @@
 
 ## 🚀 Featured Projects  
 
-### 📚 [Research Corridor](https://github.com/Dev-folabi/research-corridor)
-A platform that connects researchers with valuable resources and opportunities.  
-🔹 **Tech Stack:** Node.js, TypeScript, MongoDB  
-🔹 **Highlights:**  
-✔ Built RESTful APIs for seamless data access  
-✔ Implemented role-based access control for researchers and contributors  
-
----
-
 ### 💸 Xedla-pay  
 A fintech application with integrated payment solutions.  
 🔹 **Tech Stack:** Node.js, Express, Mongoose, MongoDB  
@@ -69,13 +60,22 @@ A SaaS platform for online learning and assessment with AI integration.
 
 ---
 
-### 🏨 Flight, Car & Vacation Booking System  
-A blockchain-integrated booking system supporting **Binance Pay, GatePay, and NowPayments** for crypto transactions.  
+### 🏨 [Nesterlify ](https://github.com/Dev-folabi/Nesterlify-Backend)
+A crypto-powered booking system (Flight, Car, Hotel & Vacation) supporting **Binance Pay, GatePay, and NowPayments** for crypto transactions.  
 🔹 **Tech Stack:** Node.js, Express, TypeScript, MongoDB  
 🔹 **Highlights:**  
 ✔ Built a **secure crypto payment integration** for seamless transactions  
 ✔ Developed an automated **escrow system** for user protection  
-✔ Supports multi-currency transactions and fiat conversion  
+✔ Supports multi-currency transactions and fiat conversion 
+
+---
+
+### 📚 [Research Corridor](https://github.com/Dev-folabi/research-corridor)
+A platform that connects researchers with valuable resources and opportunities.  
+🔹 **Tech Stack:** Node.js, TypeScript, MongoDB  
+🔹 **Highlights:**  
+✔ Built RESTful APIs for seamless data access  
+✔ Implemented role-based access control for researchers and contributors  
 
 ---
 
