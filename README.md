@@ -46,7 +46,8 @@ A fintech application with integrated payment solutions.
 🔹 **Tech Stack:** Node.js, Express, Mongoose, MongoDB  
 🔹 **Highlights:**  
 ✔ Built seamless transaction solutions  
-✔ Designed escrow and account balance management logic for secure payments  
+✔ Designed escrow and account balance management logic for secure payments
+✔ Microservice Architecture 
 
 ---
 
