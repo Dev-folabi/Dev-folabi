@@ -51,7 +51,7 @@ A fintech application with integrated payment solutions.
 
 ---
 
-### 🎓 [EduStack](https://github.com/Dev-folabi/edustack)  
+### 🎓 [EduStack](https://github.com/Dev-folabi/edustack-backend)  
 A SaaS platform for online learning and assessment with AI integration.  
 🔹 **Tech Stack:** TypeScript, Express, PostgreSQL, Prisma  
 🔹 **Highlights:**  
@@ -61,7 +61,7 @@ A SaaS platform for online learning and assessment with AI integration.
 
 ---
 
-### 🏨 [Nesterlify ](https://github.com/Dev-folabi/Nesterlify-Backend)
+### 🏨 [Travelly ](https://github.com/Dev-folabi/travelly-backend)
 A crypto-powered booking system (Flight, Car, Hotel & Vacation) supporting **Binance Pay, GatePay, and NowPayments** for crypto transactions.  
 🔹 **Tech Stack:** Node.js, Express, TypeScript, MongoDB  
 🔹 **Highlights:**  
@@ -71,22 +71,22 @@ A crypto-powered booking system (Flight, Car, Hotel & Vacation) supporting **Bin
 
 ---
 
-### 📚 [Research Corridor](https://github.com/Dev-folabi/research-corridor)
-A platform that connects researchers with valuable resources and opportunities.  
-🔹 **Tech Stack:** Node.js, TypeScript, MongoDB  
-🔹 **Highlights:**  
-✔ Built RESTful APIs for seamless data access  
-✔ Implemented role-based access control for researchers and contributors  
-
----
-
-### 🛍️ DeclutMart  
+### 🛍️ [Declluter](https://github.com/Dev-folabi/declutter-backend)
 An e-commerce marketplace for decluttered items with automated pricing suggestions.  
 🔹 **Tech Stack:** Node.js, Express, MongoDB  
 🔹 **Highlights:**  
 ✔ Implemented **price optimization logic** based on product demand and condition  
 ✔ Secure buyer-seller **escrow system** to prevent fraud  
 ✔ Integrated **real-time bidding** for auction-based sales  
+
+---
+
+### 📚 [Research Corridor](https://github.com/Dev-folabi/research-corridor)
+A platform that connects researchers with valuable resources and opportunities.  
+🔹 **Tech Stack:** Node.js, TypeScript, MongoDB  
+🔹 **Highlights:**  
+✔ Built RESTful APIs for seamless data access  
+✔ Implemented role-based access control for researchers and contributors  
 
 ---
 
