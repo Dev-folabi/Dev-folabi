@@ -39,7 +39,7 @@ Based in **Nigeria** 🇳🇬, I'm at the intersection of **fintech innovation**
 
 **Databases:** PostgreSQL, MongoDB, Redis (for caching)
 
-**Payment Systems:** Paystack, Flutterwave, Binance Pay, GatePay, NowPayments
+**Payment Systems:** Stripe, Paystack, Flutterwave, Binance Pay, GatePay, NowPayments
 
 **Cloud & DevOps:** AWS, Digital Ocean, Docker, Docker Compose, Git, GitHub Actions
 
@@ -98,6 +98,7 @@ Slow systems cost money. I optimize database queries, implement caching strategi
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 </td>
 <td valign="top" width="33%">
@@ -106,6 +107,7 @@ Slow systems cost money. I optimize database queries, implement caching strategi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </td>
 </tr>
@@ -115,11 +117,15 @@ Slow systems cost money. I optimize database queries, implement caching strategi
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
 ### Cloud & BaaS
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
 
