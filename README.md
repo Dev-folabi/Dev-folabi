@@ -2,7 +2,7 @@
 
 I'm a **backend engineer**, **fintech specialist**, and **payment systems architect** who thrives on building **scalable systems that power financial transactions and democratize access to services** — because I believe technology should empower everyone, everywhere.
 
-Based in **Nigeria** 🇳🇬, I'm at the intersection of **fintech innovation** and **technical excellence**, crafting systems that handle real money, real users, and real impact.
+ I'm at the intersection of **fintech innovation** and **technical excellence**, crafting systems that handle real money, real users, and real impact.
 
 ---
 
